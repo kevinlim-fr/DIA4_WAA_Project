@@ -8,7 +8,7 @@
 ### To save the image
 You can now draw something and click on the Save button to open the image in a new tab (Works with Chrome fine)
 
-## Assignement 2:
+## Assignement 3:
 ### Functions tested 
 #### Movie Already Used: 
 Deadpool -> Ryan Reynolds -> Deadpool 2 -> Ryan Reynolds -> Deadpool
